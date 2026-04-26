@@ -5,7 +5,7 @@ Welcome to my professional portfolio! This is a clean, responsive static website
 ## 🚀 Live Demo
 
 Check out the live version of my portfolio here:  
-👉 **[https://parvez144.github.io/spk_portfolio/](https://parvez144.github.io/spk_portfolio/)**
+👉 **[https://parvez144.github.io/portfolio/](https://parvez144.github.io/portfolio/)**
 
 ---
 
